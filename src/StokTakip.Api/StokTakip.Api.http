@@ -1,0 +1,6 @@
+@StokTakip.Api_HostAddress = http://localhost:5083
+
+GET {{StokTakip.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

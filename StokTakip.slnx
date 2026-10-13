@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StokTakip.Api/StokTakip.Api.csproj" />
+  </Folder>
+</Solution>
